@@ -1,0 +1,12 @@
+# RiskGuard Default Trading & Portfolio Risk Rules
+max_risk_per_trade_pct: 2.0
+max_total_open_risk_pct: 6.0
+max_leverage: 10.0
+daily_loss_limit_pct: 3.0
+weekly_loss_limit_pct: 7.0
+max_drawdown_pct: 15.0
+max_positions: 5
+max_correlated_exposure_pct: 150.0
+correlation_threshold: 0.70
+mandatory_stop: true
+warn_fraction: 0.80

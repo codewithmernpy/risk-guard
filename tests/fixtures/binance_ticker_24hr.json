@@ -1,0 +1,20 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "priceChange": "1500.00",
+    "priceChangePercent": "1.39",
+    "weightedAvgPrice": "108900.00",
+    "lastPrice": "109500.00",
+    "volume": "42000.0",
+    "quoteVolume": "4573800000.0"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "priceChange": "85.00",
+    "priceChangePercent": "2.26",
+    "weightedAvgPrice": "3800.00",
+    "lastPrice": "3850.00",
+    "volume": "310000.0",
+    "quoteVolume": "1178000000.0"
+  }
+]

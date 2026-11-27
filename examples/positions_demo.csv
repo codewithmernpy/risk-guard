@@ -1,0 +1,6 @@
+symbol,side,entry_price,quantity,leverage,margin_mode,stop_price,take_profit,opened_at
+DOGEUSDT,long,0.1865,26810,25,isolated,0.1720,0.2150,2025-10-31T14:00:00+00:00
+SOLUSDT,long,186.50,22,8,isolated,178.00,205.00,2025-10-31T15:15:00+00:00
+ETHUSDT,long,3835.00,1.1,6,cross,3650.00,4150.00,2025-10-31T16:30:00+00:00
+XRPUSDT,long,2.4950,1400,10,isolated,,2.8500,2025-10-31T17:45:00+00:00
+BNBUSDT,long,1085.00,2.5,5,cross,1035.00,1180.00,2025-10-31T19:00:00+00:00
